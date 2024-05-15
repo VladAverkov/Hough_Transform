@@ -1,0 +1,1 @@
+"""The Hough Transform project."""

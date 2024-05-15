@@ -1,0 +1,19 @@
+Reference
+=========
+
+.. contents::
+    :local:
+    :backlinks: none
+
+
+hough_transform_project.console
+-----------------------------------
+
+.. automodule:: src.hough_transform_project.console
+   :members:
+
+hough_transform_project.ImageProcessor
+--------------------------------------
+
+.. automodule:: src.hough_transform_project.ImageProcessor
+   :members:
